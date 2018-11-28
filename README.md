@@ -56,3 +56,23 @@ Nuo 90% iki 100%	| 2
 ![Pasiskirstymo lentele](/pasiskirstymo_lentele.PNG)
 
 "Stambių" pikų skaičius grafike - **2**
+
+### 4.c. Blast paieška
+
+Read'o ID | Mikroorganizmo rūšis
+--------- | --------------------
+M00827:12:000000000-AEUNW:1:2104:23645:25428 | Staphylococcus aureus
+M00827:12:000000000-AEUNW:1:2104:22697:25472 | Escherichia coli
+M00827:12:000000000-AEUNW:1:2104:15871:25509 | Escherichia coli
+M00827:12:000000000-AEUNW:1:2104:6218:25581 | Escherichia coli
+M00827:12:000000000-AEUNW:1:2104:22796:25688 | Escherichia coli
+M00827:12:000000000-AEUNW:1:2105:15305:2379 | Staphylococcus aureus
+M00827:12:000000000-AEUNW:1:2105:17199:2446 | Escherichia coli
+M00827:12:000000000-AEUNW:1:2105:16041:2554 | Staphylococcus aureus
+M00827:12:000000000-AEUNW:1:2105:18125:2849 | Staphylococcus aureus
+M00827:12:000000000-AEUNW:1:2105:12559:2903 | Staphylococcus aureus
+
+Paieška vykdyta naudojantis https://blast.ncbi.nlm.nih.gov/Blast.cgi (RID: ZY3WVA5401R). Atrinktos 10 sekų gali būti rastos faile "10_seku.fasta"
+
+## 5. Bakterijų rūšys mėginyje
+Mėginyje rastos 2 bakterijų rūšys: **Staphylococcus aureus** ir **Escherichia coli**
