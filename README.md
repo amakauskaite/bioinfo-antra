@@ -54,3 +54,5 @@ Nuo 80% iki 90%	| 27
 Nuo 90% iki 100%	| 2
 
 ![Pasiskirstymo lentele](/pasiskirstymo_lentele.PNG)
+
+"Stambių" pikų skaičius grafike - **2**
