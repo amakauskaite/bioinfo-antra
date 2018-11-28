@@ -53,3 +53,4 @@ Nuo 70% iki 80%	| 1859
 Nuo 80% iki 90%	| 27
 Nuo 90% iki 100%	| 2
 
+![Pasiskirstymo lentele](/pasiskirstymo_lentele.PNG)
